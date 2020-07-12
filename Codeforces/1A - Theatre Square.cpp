@@ -5,7 +5,6 @@ int main()
 {
 	long long n=0,m=0,a=0,aux=0,aux0=0;
 	cin >> n >> m >> a;
-	
 	aux=n/a;
 	aux0=m/a;
 	
