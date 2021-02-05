@@ -1,3 +1,5 @@
 # Input files
 *.txt
 *.exe
+.vscode/settings.json
+*.out
