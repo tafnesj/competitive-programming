@@ -2,7 +2,7 @@
 using namespace std;
 using lli = long long int;
  
-// Paradigma: Divide y vencerÃ¡s
+// Paradigma: Divide y vencerás
  
 lli merge(vector<int>&A, int left, int right, int middle){
 	// Iteradores
